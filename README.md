@@ -2,7 +2,7 @@
 
 #### This is my submission for the final project of CS50x 💻.
 
-#### **Not continuing work on this project (for now).**
+#### !! Not continuing work on this project (for now) !!
 
 #### Calendrier 🗓️ is a command-line calendar application that helps you remember events. You can view, create, delete and edit events on specific days. Additionally, you can also customise your experience (a little bit).
 
