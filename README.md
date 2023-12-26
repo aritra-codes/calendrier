@@ -34,7 +34,15 @@ You must have [python 3](https://www.python.org/) installed to run this applicat
 
 Firstly, clone the repository (alternatively you can download and extract the repo)
 
+```
+git clone https://github.com/Aritra587/calendrier.git
+```
+
 Then, change directories into the newly cloned repository.
+
+```
+cd calendrier
+```
 
 Then, using [pip](https://pip.pypa.io/en/stable/), install the application dependencies:
 
